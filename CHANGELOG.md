@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/jim19940123/autoRelease/compare/v1.2.0...v1.3.0) (2024-02-25)
+
+
+### Features
+
+* add another line ([bf74f04](https://github.com/jim19940123/autoRelease/commit/bf74f046c369ad397146d0fb6dcdd3715d0b70e9))
+
 # [1.2.0](https://github.com/jim19940123/autoRelease/compare/v1.1.0...v1.2.0) (2024-02-25)
 
 
